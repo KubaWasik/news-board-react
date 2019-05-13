@@ -1,4 +1,4 @@
-#React project
+# React project
 
 News board with simple functions
 
